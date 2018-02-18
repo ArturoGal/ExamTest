@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="desc">DESCRIPCIÓN</string>
+    <string name="desc_content">Cuadro personalizado de acero ligero. Sin restaurar y en hermosas condiciones originales. Con poco uso y bien conservada.</string>
+    <string name="measu">MEDIDA</string>
+    <string name="vint_bike">BICICLETA VINTAGE</string>
+    <string name="color">COLOR</string>
+
+    <string name="snack_msg">Agregado al carrito</string>
+    <string name="snack_undo">DESHACER</string>
+
+    <string name="rider_h">Estatura</string>
+    <string name="frame_size">Tamaño Sugerido</string>
+    <string name="ft">ft</string>
+    <string name="cm">cm</string>
+    <string name="size_cm">Tamaño (cm)></string>
+    <string name="size">Tamaño</string>
+
+    <string name="height1in">5"'"3"''" - 5"'"6"''"</string>
+    <string name="height1cm">160 - 168</string>
+    <string name="size1cm">51 - 53</string>
+    <string name="size1">Chico</string>
+
+    <string name="height2in">5"'"6"''" - 5"'"9"''"</string>
+    <string name="height2cm">168 - 175</string>
+    <string name="size2cm">54 - 55</string>
+    <string name="size2">Mediano</string>
+
+    <string name="height3in">5"'"9"''" - 6"'"0"''"</string>
+    <string name="height3cm">175 - 183</string>
+    <string name="size3cm">56 - 58</string>
+    <string name="size3">Grande</string>
+
+    <string name="height4in">6"'"0"''" - 6"'"3"''"</string>
+    <string name="height4cm">183 - 191</string>
+    <string name="size4cm">58 - 60</string>
+    <string name="size4">X-Grande</string>
+    
+    <string name="AtC">AGREGAR AL CARRITO</string>
+    <string name="toast_cart">Artículo ya en carrito</string>
+
+    <string name="size_s">CH</string>
+    <string name="size_m">M</string>
+    <string name="size_l">G</string>
+    <string name="size_xl">XG</string>
+
+    <string name="AdtC">AREGADO AL CARRITO</string>
+    <string name="like"> a Bicicleta Vintage</string>
+</resources>

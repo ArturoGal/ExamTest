@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">14dp</dimen>
+    <dimen name="bike_height">225dp</dimen>
+    <dimen name="label_size">25sp</dimen>
+    <dimen name="button_size">50dp</dimen>
+    <dimen name="like_size">36dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="adc_width">160dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6b4e46</color>
+    <color name="colorPrimaryDark">#FF503832</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFF</color>
+    //radio buttons
+    <color name="gray">#8F8F8F</color>
+    <color name="brown">#6B4E46</color>
+    <color name="pink">#F46EE4</color>
+    <color name="black">#000000</color>
+    //add to cart
+    <color name="gray_dark">#696969</color>     //not selected
+    <color name="gray_light">#aeaeae</color>//selected
+
+</resources>

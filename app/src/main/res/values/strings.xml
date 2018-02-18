@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="desc">DESCRIPTION</string>
+    <string name="desc_content">Custom lightweight steel frame. Unrestored in beautiful original condition. Lightly used and well kept. Full super record build.</string>
+    <string name="measu">MEASUREMENT</string>
+    <string name="vint_bike">VINTAGE BICYCLE</string>
+    <string name="color">COLOR</string>
+
+    <string name="snack_msg">Added to Cart</string>
+    <string name="snack_undo">UNDO</string>
+
+    <string name="rider_h">Rider Height</string>
+    <string name="frame_size">Suggested Frame Size</string>
+    <string name="ft">ft</string>
+    <string name="cm">cm</string>
+    <string name="size_cm">Size (cm)></string>
+    <string name="size">Size</string>
+
+    <string name="height1in">5"'"3"''" - 5"'"6"''"</string>
+    <string name="height1cm">160 - 168</string>
+    <string name="size1cm">51 - 53</string>
+    <string name="size1">Small</string>
+
+    <string name="height2in">5"'"6"''" - 5"'"9"''"</string>
+    <string name="height2cm">168 - 175</string>
+    <string name="size2cm">54 - 55</string>
+    <string name="size2">Medium</string>
+
+    <string name="height3in">5"'"9"''" - 6"'"0"''"</string>
+    <string name="height3cm">175 - 183</string>
+    <string name="size3cm">56 - 58</string>
+    <string name="size3">Large</string>
+
+    <string name="height4in">6"'"0"''" - 6"'"3"''"</string>
+    <string name="height4cm">183 - 191</string>
+    <string name="size4cm">58 - 60</string>
+    <string name="size4">X-Large</string>
+    
+    <string name="AtC">ADD TO CART</string>
+    <string name="toast_cart">Item already is in Cart</string>
+
+    <string name="size_s">S</string>
+    <string name="size_m">M</string>
+    <string name="size_l">L</string>
+    <string name="size_xl">XL</string>
+
+    <string name="AdtC">ADDED TO CART</string>
+    <string name="like"> to Vintage Bicycle</string>
+</resources>
