@@ -1,6 +1,5 @@
 package com.example.artur.examtest;
 
-import android.os.PersistableBundle;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,8 +8,6 @@ import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.ScrollView;
 import android.widget.Toast;
-
-import java.util.Locale;
 
 public class ActivityMain extends AppCompatActivity {
     boolean liked;
