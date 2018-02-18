@@ -101,7 +101,7 @@ public class ActivityMain extends AppCompatActivity {
 
     public void like(View v){
         liked = !liked;
-        Toast.makeText(this, (liked? "+" : "-") + "1" + 	getResources().getString(R.string.like), Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, (liked? "+" : "-") + "1 " + getResources().getString(R.string.like), Toast.LENGTH_SHORT).show();
     }
 
     public void sizeSelect(View v){
